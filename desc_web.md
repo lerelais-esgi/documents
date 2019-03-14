@@ -1,4 +1,4 @@
-i# Descriptif fonctionnel web
+# Descriptif fonctionnel web
 
 Ce document a pour but de vous présenter les principales fonctionnalités de l'application web.
 
